@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<img align="right" src="james.jpg">
+Hey, I'm James. Thanks for looking!
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I'm a software engineer (mostly embedded focused) currently living in Berlin.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Feel free to add me on [Twitter](https://twitter.com/bitshiftmask), [LinkedIn](https://www.linkedin.com/in/james-munns-8a42b429), [GitHub](https://github.com/jamesmunns), or just send me an email if you are interested in learning more.
