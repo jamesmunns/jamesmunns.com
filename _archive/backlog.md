@@ -1,9 +1,3 @@
----
-layout: page
-title: Backlog
-permalink: /backlog/
----
-
 These are my goals for 30 Days as a Hobby. See the post [here]({% post_url 2016-07-31-thirty-days %}) for more details
 
 | Goal                                         | Difficulty | Priority | Category     | Status        |

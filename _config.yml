@@ -16,7 +16,7 @@
 title: James
 email: james.munns@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Personal blog of James Munns. Expect code, and... ???
+  Personal blog of James Munns. Expect code and more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jamesmunns.com" # the base hostname & protocol for your site
 twitter_username: bitshiftmask

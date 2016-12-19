@@ -21,14 +21,4 @@ In the end, I feel like all of these techniques boil down to three important thi
     * Goal Oriented, i.e. Achieve X by Y date
 * Measuring and reflection on what was achieved, for better or for worse
 
-A few days ago, I decided to commit to picking a few bite sized 30 day goals, and sticking with them for 30 days. Conveniently, tomorrow is the first of August, so heres the plan:
-
-* Last day of the month is sprint planning. I pick 1-N goals that I think that I can commit to for a whole month. I will:
-    * Publicly announce what the goals are, and what my success criteria are
-* Throughout the month, write and reflect on how things are going, or what I have learned on a bite-sized level. This could be here, or on twitter (see @bitshiftmask)
-* Once a week (probably Sundays) reflect on how the week went for my goals. Provide introspective feedback on how well it is going, or what needs to change to meet my goals
-* At the end of the month, honestly review how I did on my goals, and a summary of what I learned through the experience
-
-Expect the first goal announcement later today.
-
-Lets see how this goes. Let me know on twitter if you decide to join in!
+A few days ago, I decided to commit to picking a few bite sized 30 day goals, and sticking with them for 30 days. Conveniently, tomorrow is the first of August, so here we go. Expect the first goal announcement later today.
